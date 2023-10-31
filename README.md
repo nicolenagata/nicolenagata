@@ -1,5 +1,13 @@
-### Hi there 👋
+<img width="792" alt="GitHub_Banner" src="https://github.com/nicolenagata/nicolenagata/assets/148740070/8508cc64-0fc4-48e6-9df2-2388d2e881bf">
 
+<h1 align="center">Hey There 👋, I'm Nicole</h1>
+<h3 align="center">A self-directed and driven data analytics and business management student and aspiring Data Analyst.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<div id="badges">
+  <a href="your-linkedin-URLhttps://www.linkedin.com/in/nicole-nagata">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
 <!--
 **nicolenagata/nicolenagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
